@@ -1,1 +1,1 @@
-import nginx
+FROM nginx
